@@ -1,6 +1,6 @@
 {
   "name": "@kathirvelm/firstproject",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "private": false,
   "scripts": {
     "android": "react-native run-android",
